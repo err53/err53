@@ -25,6 +25,10 @@
 
 <br/>
 
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=jhthenerd.jhthenerd" alt="Visitor Count" />
+
+<br/>
+
 <div align="center">
   <a href="https://twitter.com/jhthenerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/jasonhuang03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="30" /></a>
