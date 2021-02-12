@@ -1,6 +1,6 @@
 ![Header Image](https://github.com/jhthenerd/jhthenerd/raw/master/header.png)
 <!-- - 🔭 I’m currently working on [a11ize](https://github.com/TakingITGlobal/a11ize) -->
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning containerization and Kubernetes
 - 💬 Ask me about Gatsby, Linux, or Open Source
 - ⚡ Fun fact: I do photography as a hobby!
 
