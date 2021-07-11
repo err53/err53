@@ -1,5 +1,5 @@
 ![Header Image](https://github.com/jhthenerd/jhthenerd/raw/master/header.png)
-- 🔭 I’m currently working on schoolwork, no sideprojects for now!
+- 🔭 I’m currently working at TakingItGlobal
 - 🌱 I’m currently learning containerization and Kubernetes
 - 💬 Ask me about React, Linux, or Open Source
 - ⚡ Fun fact: I do photography as a hobby!
