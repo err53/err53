@@ -10,8 +10,8 @@
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jhthenerd&show_icons=true" alt="GitHub Activity Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhthenerd" alt="GitHub Language Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=err53&show_icons=true" alt="GitHub Activity Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=err53" alt="GitHub Language Stats" />
       </div>
     </td>
     <td valign="top" width="50%">
@@ -37,7 +37,7 @@
 </div>
 
 <!--
-**jhthenerd/jhthenerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**err53/err53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
