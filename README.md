@@ -19,7 +19,6 @@
       <div align="center">
         <a href="https://www.last.fm/user/jhthenerd">
           <img align="center" src="https://github-profile-trophy.vercel.app/?username=err53&column=3" />
-          
         </a>
       </div>
     </td>
@@ -37,7 +36,6 @@
         <a href="https://www.last.fm/user/jhthenerd">
           <img src="https://lastfm-recently-played.vercel.app/api?user=jhthenerd&count=7" alt="My Last.fm" />
         </a>
-        
       </div>
     </td>
     <td valign="top" width="50%">
