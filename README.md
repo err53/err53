@@ -26,6 +26,11 @@
 
 <br/>
 
+## Trophies
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=err53" />
+
+<br/>
+
 <div align="center">
   <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=jhthenerd.jhthenerd" alt="Visitor Count" />
 </div>
