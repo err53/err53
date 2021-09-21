@@ -29,24 +29,9 @@
 
 ## Music
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <a href="https://www.last.fm/user/jhthenerd">
-          <img src="https://lastfm-recently-played.vercel.app/api?user=jhthenerd&count=7" alt="My Last.fm" />
-        </a>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <a href="https://open.spotify.com/user/jhthenerd">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=jhthenerd&cover_image=true" alt="Spotify Now Playing" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table> 
+<a href="https://www.last.fm/user/jhthenerd">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=jhthenerd&count=7" alt="My Last.fm" />
+</a>
 
 
 
