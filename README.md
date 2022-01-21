@@ -1,6 +1,6 @@
 ![Header Image](https://github.com/jhthenerd/jhthenerd/raw/master/header.png)
 - 🎓 I'm studying CS at McMaster University
-- 🔭 I’m interning part-time at TakingItGlobal until early next year
+- 🔭 I’m interning part-time at TakingItGlobal until May
 - 🌱 I’m currently learning containerization and Kubernetes
 - 💬 Ask me about React, Linux, or Open Source
 - ⚡ Fun fact: I do photography as a hobby!
