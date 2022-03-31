@@ -12,8 +12,8 @@
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=err53&show_icons=true" alt="GitHub Activity Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=err53" alt="GitHub Language Stats" />
+        <img src="https://github.com/err53/github-stats/blob/master/generated/overview.svg" alt="GitHub Activity Stats" />
+        <img src="https://github.com/err53/github-stats/blob/master/generated/languages.svg" alt="GitHub Language Stats" />
       </div>
     </td>
     <td valign="top" width="50%">
