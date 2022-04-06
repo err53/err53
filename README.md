@@ -18,9 +18,7 @@
     </td>
     <td valign="top" width="50%">
       <div align="center">
-        <a href="https://www.last.fm/user/jhthenerd">
-          <img align="center" src="https://github-profile-trophy.vercel.app/?username=err53&column=3" />
-        </a>
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=err53&column=3" />
       </div>
     </td>
   </tr>
