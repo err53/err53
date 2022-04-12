@@ -32,14 +32,6 @@
   <img src="https://lastfm-recently-played.vercel.app/api?user=jhthenerd&count=7" alt="My Last.fm" />
 </a>
 
-
-
-<br/>
-
-<div align="center">
-  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=jhthenerd.jhthenerd" alt="Visitor Count" />
-</div>
-
 <br/>
 
 <div align="center">
