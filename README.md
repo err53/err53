@@ -1,6 +1,6 @@
 ![Header Image](https://github.com/jhthenerd/jhthenerd/raw/master/header.png)
 - 🎓 I'm studying CS at McMaster University
-- 🔭 I’m working at IWD Canada on the X Projects team
+- 🔭 I’m working at IWD Canada, building [Pearl](https://newbabel.com/)
 - 🌱 I’m currently learning containerization and Kubernetes
 - 💬 Ask me about React, Linux, or Open Source
 - ⚡ Fun fact: I do photography as a hobby!
