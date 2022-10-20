@@ -1,4 +1,4 @@
-![Header Image](https://github.com/jhthenerd/jhthenerd/raw/master/header.png)
+![Header Image](https://github.com/err53/err53/raw/master/header.png)
 - 🎓 I'm studying CS at McMaster University
 - 🔭 I’m working at IWD Canada, building [Pearl](https://newbabel.com/)
 - 🌱 I’m currently learning containerization and Kubernetes
