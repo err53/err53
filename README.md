@@ -29,7 +29,7 @@
 ## Music
 
 <a href="https://www.last.fm/user/err53">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=jhthenerd&count=7" alt="My Last.fm" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=err53&count=7" alt="My Last.fm" />
 </a>
 
 <br/>
