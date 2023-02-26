@@ -28,7 +28,7 @@
 
 ## Music
 
-<a href="https://www.last.fm/user/jhthenerd">
+<a href="https://www.last.fm/user/err53">
   <img src="https://lastfm-recently-played.vercel.app/api?user=jhthenerd&count=7" alt="My Last.fm" />
 </a>
 
