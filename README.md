@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/err53/err53/raw/master/header.png)
 - 🎓 I'm studying CS at McMaster University
 - 🔭 I'll be working at Manulife as a Cloud Engineer Intern over the summer
-- 🔨 I’m planning on rebuilding my homelab setup soon...
+- 🔨 I’m currently messing with Home Assistant (ESP devboards are cool)
 - 💬 Ask me about React, Linux, or Open Source
 - ⚡ Fun fact: I do photography as a hobby!
 
