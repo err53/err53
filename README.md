@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/err53/err53/raw/master/header.png)
-- 🎓 I'm studying CS at McMaster University, and am a VP on the Deltahacks Technical team
-- 💼 I'm currently looking for co-ops for Summer 2024
-- 🔨 I’m currently working on Salesbop, as well as fixing up my personal site
+- 🎓 I'm studying CS at McMaster University
+- 💼 I'm currently looking for new grad positions in 2025
+- 🔨 I’m currently working on Salesbop
 - 💬 Ask me about React, Linux, or Open Source
 - ⚡ Fun fact: I do photography as a hobby!
 
