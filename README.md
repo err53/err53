@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/err53/err53/raw/master/header.png)
 - 🎓 I'm studying CS at McMaster University
 - 💼 I'm currently looking for new grad positions in 2025
-- 🔨 I’m currently working on Salesbop
+- 🔨 I’m currently working on [SalesBop](https://www.salesbop.io/)
 - 💬 Ask me about React, Linux, or Open Source
 - ⚡ Fun fact: I do photography as a hobby!
 
