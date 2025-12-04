@@ -1,5 +1,6 @@
 ![Header Image](https://github.com/err53/err53/raw/master/header.png)
 - 🔨 I’m tweaking my personal site a bit, no big projects right now
+- 💼 Software Engineer @ Voleon
 - 🌱 I’m currently learning Typst (I finally got tired of installing gigabytes of TeXLive)
 - 💬 Ask me about React, Linux, or Open Source
 - ⚡ Fun fact: I do photography as a hobby!
