@@ -8,29 +8,16 @@
 <br/>  
 
 ## Stats
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img src="https://github.com/err53/github-stats/blob/master/generated/overview.svg" alt="GitHub Activity Stats" />
-        <img src="https://github.com/err53/github-stats/blob/master/generated/languages.svg" alt="GitHub Language Stats" />
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=err53&column=3" />
-      </div>
-    </td>
-  </tr>
-</table> 
+<div align="center">
+  <img src="https://github.com/err53/github-stats/blob/master/generated/overview.svg" alt="GitHub Activity Stats" />
+  <img src="https://github.com/err53/github-stats/blob/master/generated/languages.svg" alt="GitHub Language Stats" />
+</div>
 
 <br/>
 
 ## Music
 
-<a href="https://www.last.fm/user/err53">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=err53&count=7" alt="My Last.fm" />
-</a>
+The widget I was using before broke, here's my [LastFM](https://www.last.fm/user/err53) until I get around to building something to replace it
 
 <br/>
 
